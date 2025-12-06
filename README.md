@@ -1,7 +1,7 @@
 # BCI_Project
 ### Code for BCI final project. Ted Jang, Kushagra Tiwari, Tony Korol
 
-This repository contains several .py files used to train the model with and without variations as well as some notebooks used to develop and employ the T5 LLM for phoneme-to-text decoding.
+This repository contains several .py files used to train the model with and without variations as well as some notebooks used to develop and employ the T5 LLM for phoneme-to-text decoding. If you wish to run the Colab Notebooks, Make sure you have the necessary files and filepaths updated in your google drive so that the training dataset can be accessed.
 
 # HuggingFace Fine-Tuned LLM Repo!!!
 
