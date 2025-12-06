@@ -3,3 +3,7 @@
 
 This repository contains several .py files used to train the model with and without variations as well as some notebooks used to develop and employ the T5 LLM for phoneme-to-text decoding.
 
+# Important HuggingFace Fine-Tuned LLM Repo!!!
+
+https://huggingface.co/tonykorol/t5_phoneme_decoder
+
