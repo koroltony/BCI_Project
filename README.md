@@ -12,5 +12,6 @@ https://huggingface.co/tonykorol/t5_phoneme_decoder
 Unfortunately, the GRU logging is kinda messy because training paused and restarted a few times without updating the logging instance. Generally, though, you can see that some of the curves trained to completion and many trials were performed.
 
 https://wandb.ai/tkorol1-ucla/BCI%20Final%20Project?nw=nwusertkorol1
+
 https://wandb.ai/tkorol1-ucla/huggingface?nw=nwusertkorol1
 
